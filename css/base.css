@@ -1,0 +1,92 @@
+.body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f8f9fa;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-size: 2.7rem;
+  font-weight: 600;
+  color: #2d3748;
+  text-align: center;
+  margin: 2.5rem 0 2rem 0;
+}
+
+.drug-dropdown-filter {
+  padding: 6px 10px;
+  border: 1.5px solid #2d3748;
+  border-radius: 6px;
+  background: #f9fafb;
+  color: #2d3748;
+  font-size: 0.9rem;
+  font-family: 'Montserrat', Arial, sans-serif;
+  transition: border-color 0.2s, box-shadow 0.2s, background 0.2s;
+  outline: none;
+  margin: 0 8px 12px 0;
+  box-shadow: 0 2px 8px rgba(66, 188, 245, 0.04);
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3csvg width='16' height='16' fill='none' stroke='%2342bcf5' stroke-width='2' viewBox='0 0 24 24'%3e%3cpath d='M6 9l6 6 6-6'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 16px 16px;
+  min-width: 90px;
+  height: 32px;
+}
+
+.drug-dropdown-filter:hover {
+  background: #e6f7fb;
+  border-color: #42bcf5;
+}
+
+.drug-dropdown-filter:focus {
+  border-color: #42bcf5;
+  box-shadow: 0 0 0 2px rgba(66, 188, 245, 0.2);
+  background: #e6f7fb;
+}
+
+.drug-dropdown-filter:disabled {
+  background: #f1f1f1;
+  color: #b0b0b0;
+  border-color: #d1d5db;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.drug-dropdown-filter option {
+  background: #fff;
+  color: #2d3748;
+}
+
+@media (max-width: 600px) {
+  .drug-dropdown-filter {
+    padding: 4px 7px;
+    font-size: 0.8rem;
+    margin-bottom: 8px;
+    min-width: 70px;
+    height: 26px;
+  }
+}
+
+.road-safety-intro {
+  background: #f3f7fd;
+  border: 1.5px solid #1d4b8bea;
+  border-left: 12px solid #1d4b8bea;
+  color: #0c2c58; 
+  font-style: italic;
+  font-size: 1.2rem;
+  font-family: 'Segoe UI',wf_segoe-ui_normal,helvetica,arial,sans-serif;
+  margin: 16px auto 18px auto;
+  padding: 2rem;
+  border-radius: 4px;
+  max-width: 97%;
+  box-sizing: border-box;
+} 
+
+.choropleth-intro {
+  font-size: 1.2rem;
+  font-family: 'Segoe UI',wf_segoe-ui_normal,helvetica,arial,sans-serif;
+  margin: 16px auto 18px auto;
+  max-width: 97%;
+}

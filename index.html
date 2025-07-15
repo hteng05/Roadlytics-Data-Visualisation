@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset=UTF-8>
+        <meta name="description" content="Webpage">
+        <title>Home</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Madimi+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Angkor&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+    </head>
+    <body class="body">
+        <!--Header-->
+        <script src="js/header.js"></script>
+    <main>
+    <div class="video">
+        <video autoplay loop muted playsinline class="bgvideo">
+            <source src="images/backgroundvid.mp4" type="video/mp4" >
+        </video>
+        <section class="content">
+            <h1>Roadlytics</h1>
+            <a href="#learn" class="hero-btn">Discover the Truth</a>
+        </section>
+    </div>
+    
+    <section class="intro-banner" id="learn">
+        <div class="intro-text" data-aos="fade-up">
+            <h2>THE ROADS WE TRAVEL</h2>
+            <p class="intro-paragraph">Every day across Australia, countless lives hang in the balance. Behind each road statistic is a story waiting to be told - stories of choices made in moments that last forever.</p>
+            <div class="stat-counter">
+                <span class="counter" data-target="1200">0</span>
+                <p>Average number of lives lost on Australian roads each year</p>
+            </div>
+        </div>
+    </section>
+    
+    <section class="story-grid">
+        <div class="story-card" data-aos="zoom-in">
+            <div class="card-overlay">
+                <div class="card-content">
+                    <h3>DRUG TESTING</h3>
+                    <div class="card-stat">1 IN 6</div>
+                    <p>Across Australia, roadside drug testing has become increasingly common. What many don't realize is that drugs remain detectable long after their effects wear off. A night out can lead to a positive test days later, resulting in license suspension and heavy fines. This is a serious issue that needs to be addressed.</p>
+                    <a href="drug.html" class="card-button">
+                        <span>Discover</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="story-card seatbelt-card" data-aos="zoom-in" data-aos-delay="100">
+            <div class="card-overlay">
+                <div class="card-content">
+                    <h3>SEATBELT FINES</h3>
+                    <div class="card-stat">$1,078</div>
+                    <p>It takes just three seconds to click a seatbelt into place, yet thousands of Australians choose not to - a decision that costs them up to $1,078 in fines. But the real cost can't be measured in dollars. In crashes where seatbelts aren't worn, the fatality rate increases dramatically.</p>
+                    <a href="seatbelt-section.html" class="card-button">
+                        <span>Discover</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="impact-section">
+        <div class="impact-content" data-aos="fade-up">
+            <h2>SOUTH AUSTRALIA'S ROADS</h2>
+            <p class="impact-paragraph">In South Australia, the data tells a devastating story. Where drug impairment and no seatbelt intersect, the chance of survival plummets. Rural roads are particularly dangerous, with higher speeds and longer emergency response times compounding these risks. Behind each data point is a family that will never be the same.</p>
+            <div class="impact-stat">
+                <span class="highlight">56%</span> of crashes led to death or serious injury
+            </div>
+            <a href="car-crash.html" class="impact-button">
+                See the Data
+                <i class="fas fa-chart-line"></i>
+            </a>
+        </div>
+    </section>
+    
+    <section class="final-message">
+        <div class="message-content">
+            <h2>YOUR CHOICES MATTER</h2>
+            <p>At Roadlytics, we believe that understanding the real impact of seemingly small decisions can help ensure more Australians make it home safely each day. Our data tells stories that can change behaviors and save lives.</p>
+        </div>
+    </section>
+    </main>
+    
+    <!-- Footer -->
+    <footer class="footer">
+        <p>© 2025 Roadlytics - Driving Change Through Data</p>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script>
+        // Initialize AOS
+        AOS.init({
+            duration: 800,
+            once: true
+        });
+        
+        // Counter animation
+        const counters = document.querySelectorAll('.counter');
+        counters.forEach(counter => {
+            const target = +counter.dataset.target;
+            const increment = target / 100;
+            
+            const updateCounter = () => {
+                const count = +counter.innerText;
+                if (count < target) {
+                    counter.innerText = Math.ceil(count + increment);
+                    setTimeout(updateCounter, 20);
+                } else {
+                    counter.innerText = target;
+                }
+            };
+            
+            updateCounter();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css">
+    <title>Road Safety Enforcement Dashboard - Roadlytics</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 60px 20px;
+            line-height: 1.6;
+            background-color: #ffffff;
+            color: #1a1a1a;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: #000;
+            letter-spacing: -0.5px;
+        }
+
+        .description {
+            font-size: 1.1rem;
+            color: #666;
+            margin-bottom: 50px;
+            font-weight: 400;
+        }
+
+        .data-section {
+            margin-bottom: 40px;
+        }
+
+        .data-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 16px 0;
+            border-bottom: 1px solid #f0f0f0;
+            font-size: 1.1rem;
+        }
+
+        .data-item:last-child {
+            border-bottom: none;
+        }
+
+        .data-name {
+            font-weight: 500;
+            color: #1a1a1a;
+        }
+
+        .download-link {
+            color: #0066cc;
+            text-decoration: none;
+            font-weight: 500;
+            padding: 8px 16px;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+            border: 1px solid transparent;
+        }
+
+        .download-link:hover {
+            background-color: #f8f9fa;
+            border-color: #e9ecef;
+            color: #0052a3;
+        }
+
+        .file-size {
+            color: #999;
+            font-size: 0.9rem;
+            margin-left: 8px;
+        }
+
+        .update-info {
+            margin-top: 60px;
+            padding-top: 20px;
+            border-top: 1px solid #f0f0f0;
+            font-size: 0.95rem;
+            color: #666;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 40px 16px;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            .data-item {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 8px;
+            }
+
+            .download-link {
+                align-self: flex-end;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Roadlytics</h1>
+    
+    <p class="description">Download processed road safety data for analysis and research</p>
+    
+    <div class="data-item">
+        Seatbelt fines 
+        <a href="data/noseatbelts.csv" class="download-link" download>[FILE: 25.2 KB]</a>
+    </div>
+    
+    <div class="data-item">
+        Seatbelt consequences 
+        <a href="data/noseatbeltsconsequence.csv" class="download-link" download>[FILE: 312.5 KB]</a>
+    </div>
+    
+    <div class="data-item">
+        Drug test totals 
+        <a href="data/totaldrugtest.csv" class="download-link" download>[FILE: 8.1 KB]</a>
+    </div>
+    
+    <div class="data-item">
+        Positive drug tests 
+        <a href="data/positivedrug.csv" class="download-link" download>[FILE: 891.3 KB]</a>
+    </div>
+    
+    <div class="data-item">
+        Drug crash consequences 
+        <a href="data/drugconsequence.csv" class="download-link" download>[FILE: 127.4 KB]</a>
+    </div>
+    
+    <p class="update-info">Data last updated on: <span id="last-updated"></span></p>
+    <script>
+        // Function to get the current date in YYYY-MM-DD format
+        function getCurrentDate() {
+            const today = new Date();
+            const year = today.getFullYear();
+            const month = String(today.getMonth() + 1).padStart(2, '0'); // Months are zero-based
+            const day = String(today.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
+        // Set the last updated date in the HTML
+        document.getElementById('last-updated').textContent = getCurrentDate();
+    </script>
+    <div class="view-data-btn-container">
+        <a href="index.html" class="view-data-btn">Back to Dashboard</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,452 @@
+.legend text {
+    font-size: 8px;
+    fill: #666;
+}
+
+.legend rect {
+    stroke: none;
+}
+
+/* Jurisdiction details styles */
+.jurisdiction-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.jurisdiction-header h2 {
+    margin: 0;
+    color: #333;
+    font-size: 1.8rem;
+}
+
+#tooltip-linechart {
+    position: absolute;
+    pointer-events: none;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    border-radius: 8px;
+    padding: 8px;
+    font-family: "Segoe UI", sans-serif;
+    font-size: 10px;
+    width: 209px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+    z-index: 10;
+    display: none;
+}
+
+/* Jurisdiction details styles */
+#jurisdiction-line-chart {
+    margin-top: 20px;
+    min-height: 400px;
+    padding-bottom: 60px;
+}
+
+#jurisdiction-details {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    scroll-margin-top: 20px;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+#jurisdiction-details.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#jurisdiction-details .responsive-svg-container {
+    margin: 20px 0;
+    min-height: 400px;
+}
+
+/* Choropleth hover styles */
+.state {
+    transition: stroke 0.2s, stroke-width 0.2s, filter 0.2s;
+}
+
+.state.hover {
+    stroke: #000 !important;
+    stroke-width: 1.3px !important;
+    filter: drop-shadow(0 0 6px #fff) !important;
+}
+
+.state.selected {
+    stroke: #000;
+    stroke-width: 1.3px;
+    filter: drop-shadow(0 0 6px #fff);
+}
+
+/* Smooth scrolling for the entire page */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Base layout adjustments */
+.body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f8f9fa;
+  overflow-x: hidden;
+}
+
+/* Hero section */
+.drug-hero {
+  height: 50vh;
+  min-height: 400px;
+  background: url('../images/drug-test.jpg') center/cover;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.drug-hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.8));
+}
+
+.drug-hero-content {
+  position: relative;
+  z-index: 1;
+  max-width: 1000px;
+  padding: 0 20px;
+  color: white;
+}
+
+.drug-hero-content h1 {
+  font-size: 2.8rem;
+  font-weight: 800;
+  margin-bottom: 20px;
+  font-family: 'Poppins', sans-serif;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+  color: white;
+  text-align: center;
+}
+
+.hero-tagline {
+  font-size: 1.3rem;
+  font-weight: 500;
+  opacity: 0.9;
+  margin-top: 0;
+}
+
+/* Main container */
+.drug-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+/* Intro section */
+.intro-section {
+  margin-bottom: 40px;
+}
+
+#intro-text {
+  font-style: italic;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  color: #264ba9;
+  margin-top: 18px;
+  text-align: center;
+}
+
+#missing-data {
+  font-style: italic; 
+  font-family: 'Times New Roman', Times, serif; 
+  color: rgb(225, 16, 16); 
+  text-align: right;
+}
+
+.road-safety-intro {
+  background: linear-gradient(to right, #0047AB, #002c67);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-style: normal;
+  font-size: 0.5rem;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 0 30px 0;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.safety-icon {
+  font-size: 2.5rem;
+  color: #FFD700;
+  margin-top: 5px;
+}
+
+.road-safety-intro p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+.choropleth-intro {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: #333;
+  max-width: 100%;
+  margin-bottom: 30px;
+}
+
+.section-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin: 0 0 20px 0;
+  color: #0047AB;
+  font-family: 'Poppins', sans-serif;
+}
+
+.chart-title {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin: 0 0 20px 0;
+  color: #0047AB;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Map section */
+.map-section {
+  margin-bottom: 50px;
+  background: white;
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+}
+
+/* Jurisdiction details */
+.jurisdiction-details {
+  background: white;
+  border-radius: 15px;
+  padding: 30px;
+  margin-top: 50px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.jurisdiction-details.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.jurisdiction-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 15px;
+}
+
+.jurisdiction-header h2 {
+  margin: 0;
+  color: #0047AB;
+  font-size: 1.8rem;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Modern button */
+.modern-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: #0047AB;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 50px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0,71,171,0.3);
+}
+
+.modern-button:hover {
+  background: #003380;
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,71,171,0.4);
+}
+
+/* Filters */
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 30px;
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 10px;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  min-width: 150px;
+}
+
+.filter-group label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #555;
+}
+
+.drug-dropdown-filter {
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: white;
+  color: #333;
+  font-size: 0.75rem;
+  font-family: 'Montserrat', sans-serif;
+  transition: all 0.2s ease;
+  outline: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3csvg width='16' height='16' fill='none' stroke='%230047AB' stroke-width='2' viewBox='0 0 24 24'%3e%3cpath d='M6 9l6 6 6-6'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 16px 16px;
+  width: 100%;
+}
+
+.drug-dropdown-filter:hover {
+  border-color: #0047AB;
+}
+
+.drug-dropdown-filter:focus {
+  border-color: #0047AB;
+  box-shadow: 0 0 0 3px rgba(0,71,171,0.2);
+}
+
+.responsive-svg-container {
+  width: 100%;
+  margin: 0 auto;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  min-height: 400px;
+}
+
+/* Tooltip enhancements */
+.tooltip-linechart {
+  background: rgba(0, 10, 30, 0.85);
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  border: 1px solid rgba(255,255,255,0.1);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  transition: opacity 0.2s ease;
+  z-index: 1000;
+}
+
+/* Footer */
+.footer {
+  background-color: #0047AB;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -5px 10px rgba(0,0,0,0.2);
+}
+
+/* Responsive adjustments */
+@media (max-width: 991px) {
+  .drug-hero-content h1 {
+    font-size: 2.3rem;
+  }
+  
+  .hero-tagline {
+    font-size: 1rem;
+  }
+  
+  .section-title {
+    font-size: 1.6rem;
+  }
+  
+  .chart-title {
+    font-size: 1.1rem;
+  }
+  
+  .filters {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .filter-group {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .drug-hero {
+    min-height: 300px;
+  }
+  
+  .drug-hero-content h1 {
+    font-size: 1.8rem;
+  }
+  
+  .road-safety-intro {
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .safety-icon {
+    margin-bottom: 15px;
+  }
+  
+  .jurisdiction-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+  }
+  
+  .modern-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+#positive-drug-bar-chart,
+#jurisdiction-line-chart {
+  margin: 0 auto;
+  /* display: block; */
+  /* max-width: 900px; */
+}
+
+#positive-drug-bar-chart svg,
+#jurisdiction-line-chart svg {
+  display: block;
+  margin: 0 auto;
+}
+
+#positive-drug-bar-chart {
+  padding-bottom: 60px;
+}

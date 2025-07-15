@@ -1,0 +1,821 @@
+"YEAR","START_DATE","END_DATE","JURISDICTION","LOCATION","AGE_GROUP","METRIC","DETECTION_METHOD","FINES"
+2018,"2018-01-01","2018-12-31","ACT","All regions","All ages","non_wearing_seatbelts","Police issued",197
+2018,"2018-01-01","2018-12-31","NSW","All regions","All ages","non_wearing_seatbelts","Police issued",21538
+2018,"2018-01-01","2018-12-31","NSW","All regions","All ages","non_wearing_seatbelts","Fixed or mobile camera",15
+2018,"2018-01-01","2018-12-31","NT","All regions","All ages","non_wearing_seatbelts","Police issued",2558
+2018,"2018-01-01","2018-12-31","QLD","All regions","All ages","non_wearing_seatbelts","Police issued",8789
+2018,"2018-01-01","2018-12-31","SA","All regions","All ages","non_wearing_seatbelts","Police issued",4909
+2018,"2018-01-01","2018-12-31","VIC","All regions","All ages","non_wearing_seatbelts","Police issued",13595
+2018,"2018-01-01","2018-12-31","WA","All regions","All ages","non_wearing_seatbelts","Police issued",5953
+2019,"2019-01-01","2019-12-31","ACT","All regions","All ages","non_wearing_seatbelts","Police issued",174
+2019,"2019-01-01","2019-12-31","NSW","All regions","All ages","non_wearing_seatbelts","Police issued",19348
+2019,"2019-01-01","2019-12-31","NSW","All regions","All ages","non_wearing_seatbelts","Fixed or mobile camera",7
+2019,"2019-01-01","2019-12-31","NT","All regions","All ages","non_wearing_seatbelts","Police issued",3521
+2019,"2019-01-01","2019-12-31","QLD","All regions","All ages","non_wearing_seatbelts","Police issued",9009
+2019,"2019-01-01","2019-12-31","SA","All regions","All ages","non_wearing_seatbelts","Police issued",4386
+2019,"2019-01-01","2019-12-31","VIC","All regions","All ages","non_wearing_seatbelts","Police issued",11835
+2019,"2019-01-01","2019-12-31","WA","All regions","All ages","non_wearing_seatbelts","Police issued",4469
+2020,"2020-01-01","2020-12-31","ACT","All regions","All ages","non_wearing_seatbelts","Police issued",143
+2020,"2020-01-01","2020-12-31","NSW","All regions","All ages","non_wearing_seatbelts","Police issued",11715
+2020,"2020-01-01","2020-12-31","NSW","All regions","All ages","non_wearing_seatbelts","Fixed or mobile camera",5
+2020,"2020-01-01","2020-12-31","NT","All regions","All ages","non_wearing_seatbelts","Police issued",2111
+2020,"2020-01-01","2020-12-31","QLD","All regions","All ages","non_wearing_seatbelts","Police issued",6108
+2020,"2020-01-01","2020-12-31","SA","All regions","All ages","non_wearing_seatbelts","Police issued",3935
+2020,"2020-01-01","2020-12-31","TAS","All regions","All ages","non_wearing_seatbelts","Police issued",1332
+2020,"2020-01-01","2020-12-31","VIC","All regions","All ages","non_wearing_seatbelts","Police issued",7757
+2020,"2020-01-01","2020-12-31","WA","All regions","All ages","non_wearing_seatbelts","Police issued",2804
+2021,"2021-01-01","2021-12-31","ACT","All regions","All ages","non_wearing_seatbelts","Police issued",60
+2021,"2021-01-01","2021-12-31","NSW","All regions","All ages","non_wearing_seatbelts","Police issued",9597
+2021,"2021-01-01","2021-12-31","NSW","All regions","All ages","non_wearing_seatbelts","Fixed or mobile camera",5
+2021,"2021-01-01","2021-12-31","NT","All regions","All ages","non_wearing_seatbelts","Police issued",1123
+2021,"2021-01-01","2021-12-31","QLD","All regions","All ages","non_wearing_seatbelts","Police issued",5051
+2021,"2021-01-01","2021-12-31","QLD","All regions","All ages","non_wearing_seatbelts","Fixed or mobile camera",5346
+2021,"2021-01-01","2021-12-31","SA","All regions","All ages","non_wearing_seatbelts","Police issued",2684
+2021,"2021-01-01","2021-12-31","TAS","All regions","All ages","non_wearing_seatbelts","Police issued",1129
+2021,"2021-01-01","2021-12-31","VIC","All regions","All ages","non_wearing_seatbelts","Police issued",6342
+2021,"2021-01-01","2021-12-31","WA","All regions","All ages","non_wearing_seatbelts","Police issued",1856
+2022,"2022-01-01","2022-12-31","ACT","All regions","All ages","non_wearing_seatbelts","Police issued",41
+2022,"2022-01-01","2022-12-31","NSW","All regions","All ages","non_wearing_seatbelts","Police issued",9720
+2022,"2022-01-01","2022-12-31","NSW","All regions","All ages","non_wearing_seatbelts","Fixed or mobile camera",2
+2022,"2022-01-01","2022-12-31","NT","All regions","All ages","non_wearing_seatbelts","Police issued",1166
+2022,"2022-01-01","2022-12-31","QLD","All regions","All ages","non_wearing_seatbelts","Police issued",3848
+2022,"2022-01-01","2022-12-31","QLD","All regions","All ages","non_wearing_seatbelts","Fixed or mobile camera",52079
+2022,"2022-01-01","2022-12-31","SA","All regions","All ages","non_wearing_seatbelts","Police issued",3046
+2022,"2022-01-01","2022-12-31","TAS","All regions","All ages","non_wearing_seatbelts","Police issued",890
+2022,"2022-01-01","2022-12-31","VIC","All regions","All ages","non_wearing_seatbelts","Police issued",7492
+2022,"2022-01-01","2022-12-31","WA","All regions","All ages","non_wearing_seatbelts","Police issued",2186
+2023,"2023-01-01","2023-01-31","ACT","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-01-01","2023-01-31","ACT","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-01-01","2023-01-31","NSW","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",5
+2023,"2023-01-01","2023-01-31","NSW","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",85
+2023,"2023-01-01","2023-01-31","NSW","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",155
+2023,"2023-01-01","2023-01-31","NSW","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",102
+2023,"2023-01-01","2023-01-31","NSW","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",25
+2023,"2023-01-01","2023-01-31","NSW","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-01-01","2023-01-31","NSW","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",148
+2023,"2023-01-01","2023-01-31","NSW","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",216
+2023,"2023-01-01","2023-01-31","NSW","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",159
+2023,"2023-01-01","2023-01-31","NSW","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",28
+2023,"2023-01-01","2023-01-31","NSW","Outer Regional Australia","0-16","non_wearing_seatbelts","Police issued",2
+2023,"2023-01-01","2023-01-31","NSW","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",24
+2023,"2023-01-01","2023-01-31","NSW","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",48
+2023,"2023-01-01","2023-01-31","NSW","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",56
+2023,"2023-01-01","2023-01-31","NSW","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",18
+2023,"2023-01-01","2023-01-31","NSW","Remote Australia","17-25","non_wearing_seatbelts","Police issued",4
+2023,"2023-01-01","2023-01-31","NSW","Remote Australia","26-39","non_wearing_seatbelts","Police issued",2
+2023,"2023-01-01","2023-01-31","NSW","Remote Australia","40-64","non_wearing_seatbelts","Police issued",7
+2023,"2023-01-01","2023-01-31","NSW","Remote Australia","65 and over","non_wearing_seatbelts","Police issued",2
+2023,"2023-01-01","2023-01-31","NSW","Very Remote Australia","17-25","non_wearing_seatbelts","Police issued",2
+2023,"2023-01-01","2023-01-31","NSW","Very Remote Australia","26-39","non_wearing_seatbelts","Police issued",3
+2023,"2023-01-01","2023-01-31","NT","Unknown","17-25","non_wearing_seatbelts","Police issued",26
+2023,"2023-01-01","2023-01-31","NT","Unknown","26-39","non_wearing_seatbelts","Police issued",34
+2023,"2023-01-01","2023-01-31","NT","Unknown","40-64","non_wearing_seatbelts","Police issued",20
+2023,"2023-01-01","2023-01-31","NT","Unknown","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-01-01","2023-01-31","SA","Unknown","0-16","non_wearing_seatbelts","Police issued",2
+2023,"2023-01-01","2023-01-31","SA","Unknown","17-25","non_wearing_seatbelts","Police issued",59
+2023,"2023-01-01","2023-01-31","SA","Unknown","26-39","non_wearing_seatbelts","Police issued",77
+2023,"2023-01-01","2023-01-31","SA","Unknown","40-64","non_wearing_seatbelts","Police issued",86
+2023,"2023-01-01","2023-01-31","SA","Unknown","65 and over","non_wearing_seatbelts","Police issued",36
+2023,"2023-01-01","2023-01-31","SA","Unknown","Unknown","non_wearing_seatbelts","Police issued",0
+2023,"2023-01-01","2023-01-31","TAS","Unknown","0-16","non_wearing_seatbelts","Police issued",0
+2023,"2023-01-01","2023-01-31","TAS","Unknown","17-25","non_wearing_seatbelts","Police issued",15
+2023,"2023-01-01","2023-01-31","TAS","Unknown","26-39","non_wearing_seatbelts","Police issued",24
+2023,"2023-01-01","2023-01-31","TAS","Unknown","40-64","non_wearing_seatbelts","Police issued",18
+2023,"2023-01-01","2023-01-31","TAS","Unknown","65 and over","non_wearing_seatbelts","Police issued",13
+2023,"2023-01-01","2023-01-31","VIC","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-01-01","2023-01-31","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",54
+2023,"2023-01-01","2023-01-31","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",65
+2023,"2023-01-01","2023-01-31","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",53
+2023,"2023-01-01","2023-01-31","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",14
+2023,"2023-01-01","2023-01-31","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",82
+2023,"2023-01-01","2023-01-31","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",185
+2023,"2023-01-01","2023-01-31","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",140
+2023,"2023-01-01","2023-01-31","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",27
+2023,"2023-01-01","2023-01-31","VIC","Outer Regional Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-01-01","2023-01-31","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",15
+2023,"2023-01-01","2023-01-31","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",7
+2023,"2023-01-01","2023-01-31","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",9
+2023,"2023-01-01","2023-01-31","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",8
+2023,"2023-01-01","2023-01-31","VIC","Remote Australia","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-01-01","2023-01-31","VIC","Unknown","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-01-01","2023-01-31","WA","Unknown","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-01-01","2023-01-31","WA","Unknown","17-25","non_wearing_seatbelts","Police issued",47
+2023,"2023-01-01","2023-01-31","WA","Unknown","26-39","non_wearing_seatbelts","Police issued",84
+2023,"2023-01-01","2023-01-31","WA","Unknown","40-64","non_wearing_seatbelts","Police issued",72
+2023,"2023-01-01","2023-01-31","WA","Unknown","65 and over","non_wearing_seatbelts","Police issued",22
+2023,"2023-01-01","2023-12-31","QLD","Unknown","Unknown","non_wearing_seatbelts","Fixed or mobile camera",33366
+2023,"2023-01-01","2023-12-31","QLD","Unknown","Unknown","non_wearing_seatbelts","Police issued",4164
+2023,"2023-02-01","2023-02-28","ACT","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-02-01","2023-02-28","ACT","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",3
+2023,"2023-02-01","2023-02-28","ACT","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",3
+2023,"2023-02-01","2023-02-28","ACT","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-02-01","2023-02-28","NSW","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",3
+2023,"2023-02-01","2023-02-28","NSW","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",70
+2023,"2023-02-01","2023-02-28","NSW","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",84
+2023,"2023-02-01","2023-02-28","NSW","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",63
+2023,"2023-02-01","2023-02-28","NSW","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",24
+2023,"2023-02-01","2023-02-28","NSW","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",4
+2023,"2023-02-01","2023-02-28","NSW","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",137
+2023,"2023-02-01","2023-02-28","NSW","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",173
+2023,"2023-02-01","2023-02-28","NSW","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",132
+2023,"2023-02-01","2023-02-28","NSW","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",24
+2023,"2023-02-01","2023-02-28","NSW","Outer Regional Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-02-01","2023-02-28","NSW","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",27
+2023,"2023-02-01","2023-02-28","NSW","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",47
+2023,"2023-02-01","2023-02-28","NSW","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",36
+2023,"2023-02-01","2023-02-28","NSW","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",4
+2023,"2023-02-01","2023-02-28","NSW","Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-02-01","2023-02-28","NSW","Remote Australia","40-64","non_wearing_seatbelts","Police issued",6
+2023,"2023-02-01","2023-02-28","NSW","Unknown","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-02-01","2023-02-28","NSW","Very Remote Australia","17-25","non_wearing_seatbelts","Police issued",2
+2023,"2023-02-01","2023-02-28","NT","Unknown","17-25","non_wearing_seatbelts","Police issued",9
+2023,"2023-02-01","2023-02-28","NT","Unknown","26-39","non_wearing_seatbelts","Police issued",18
+2023,"2023-02-01","2023-02-28","NT","Unknown","40-64","non_wearing_seatbelts","Police issued",13
+2023,"2023-02-01","2023-02-28","NT","Unknown","65 and over","non_wearing_seatbelts","Police issued",2
+2023,"2023-02-01","2023-02-28","SA","Unknown","0-16","non_wearing_seatbelts","Police issued",0
+2023,"2023-02-01","2023-02-28","SA","Unknown","17-25","non_wearing_seatbelts","Police issued",40
+2023,"2023-02-01","2023-02-28","SA","Unknown","26-39","non_wearing_seatbelts","Police issued",72
+2023,"2023-02-01","2023-02-28","SA","Unknown","40-64","non_wearing_seatbelts","Police issued",113
+2023,"2023-02-01","2023-02-28","SA","Unknown","65 and over","non_wearing_seatbelts","Police issued",44
+2023,"2023-02-01","2023-02-28","SA","Unknown","Unknown","non_wearing_seatbelts","Police issued",0
+2023,"2023-02-01","2023-02-28","TAS","Unknown","0-16","non_wearing_seatbelts","Police issued",0
+2023,"2023-02-01","2023-02-28","TAS","Unknown","17-25","non_wearing_seatbelts","Police issued",14
+2023,"2023-02-01","2023-02-28","TAS","Unknown","26-39","non_wearing_seatbelts","Police issued",26
+2023,"2023-02-01","2023-02-28","TAS","Unknown","40-64","non_wearing_seatbelts","Police issued",18
+2023,"2023-02-01","2023-02-28","TAS","Unknown","65 and over","non_wearing_seatbelts","Police issued",10
+2023,"2023-02-01","2023-02-28","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",39
+2023,"2023-02-01","2023-02-28","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",69
+2023,"2023-02-01","2023-02-28","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",47
+2023,"2023-02-01","2023-02-28","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",23
+2023,"2023-02-01","2023-02-28","VIC","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-02-01","2023-02-28","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",73
+2023,"2023-02-01","2023-02-28","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",157
+2023,"2023-02-01","2023-02-28","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",144
+2023,"2023-02-01","2023-02-28","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",14
+2023,"2023-02-01","2023-02-28","VIC","Outer Regional Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-02-01","2023-02-28","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",10
+2023,"2023-02-01","2023-02-28","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",15
+2023,"2023-02-01","2023-02-28","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",15
+2023,"2023-02-01","2023-02-28","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",4
+2023,"2023-02-01","2023-02-28","VIC","Remote Australia","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-02-01","2023-02-28","WA","Unknown","17-25","non_wearing_seatbelts","Police issued",37
+2023,"2023-02-01","2023-02-28","WA","Unknown","26-39","non_wearing_seatbelts","Police issued",59
+2023,"2023-02-01","2023-02-28","WA","Unknown","40-64","non_wearing_seatbelts","Police issued",56
+2023,"2023-02-01","2023-02-28","WA","Unknown","65 and over","non_wearing_seatbelts","Police issued",9
+2023,"2023-03-01","2023-03-31","ACT","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-03-01","2023-03-31","ACT","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-03-01","2023-03-31","ACT","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",2
+2023,"2023-03-01","2023-03-31","NSW","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-03-01","2023-03-31","NSW","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",70
+2023,"2023-03-01","2023-03-31","NSW","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",99
+2023,"2023-03-01","2023-03-31","NSW","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",87
+2023,"2023-03-01","2023-03-31","NSW","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",8
+2023,"2023-03-01","2023-03-31","NSW","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",137
+2023,"2023-03-01","2023-03-31","NSW","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",186
+2023,"2023-03-01","2023-03-31","NSW","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",137
+2023,"2023-03-01","2023-03-31","NSW","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",18
+2023,"2023-03-01","2023-03-31","NSW","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",20
+2023,"2023-03-01","2023-03-31","NSW","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",43
+2023,"2023-03-01","2023-03-31","NSW","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",27
+2023,"2023-03-01","2023-03-31","NSW","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",7
+2023,"2023-03-01","2023-03-31","NSW","Remote Australia","17-25","non_wearing_seatbelts","Police issued",3
+2023,"2023-03-01","2023-03-31","NSW","Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-03-01","2023-03-31","NSW","Remote Australia","40-64","non_wearing_seatbelts","Police issued",11
+2023,"2023-03-01","2023-03-31","NSW","Remote Australia","65 and over","non_wearing_seatbelts","Police issued",2
+2023,"2023-03-01","2023-03-31","NSW","Unknown","40-64","non_wearing_seatbelts","Police issued",2
+2023,"2023-03-01","2023-03-31","NSW","Unknown","65 and over","non_wearing_seatbelts","Police issued",2
+2023,"2023-03-01","2023-03-31","NSW","Very Remote Australia","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-03-01","2023-03-31","NSW","Very Remote Australia","26-39","non_wearing_seatbelts","Police issued",2
+2023,"2023-03-01","2023-03-31","NSW","Very Remote Australia","40-64","non_wearing_seatbelts","Police issued",2
+2023,"2023-03-01","2023-03-31","NT","Unknown","17-25","non_wearing_seatbelts","Police issued",18
+2023,"2023-03-01","2023-03-31","NT","Unknown","26-39","non_wearing_seatbelts","Police issued",39
+2023,"2023-03-01","2023-03-31","NT","Unknown","40-64","non_wearing_seatbelts","Police issued",29
+2023,"2023-03-01","2023-03-31","NT","Unknown","65 and over","non_wearing_seatbelts","Police issued",5
+2023,"2023-03-01","2023-03-31","SA","Unknown","0-16","non_wearing_seatbelts","Police issued",0
+2023,"2023-03-01","2023-03-31","SA","Unknown","17-25","non_wearing_seatbelts","Police issued",38
+2023,"2023-03-01","2023-03-31","SA","Unknown","26-39","non_wearing_seatbelts","Police issued",95
+2023,"2023-03-01","2023-03-31","SA","Unknown","40-64","non_wearing_seatbelts","Police issued",110
+2023,"2023-03-01","2023-03-31","SA","Unknown","65 and over","non_wearing_seatbelts","Police issued",53
+2023,"2023-03-01","2023-03-31","SA","Unknown","Unknown","non_wearing_seatbelts","Police issued",0
+2023,"2023-03-01","2023-03-31","TAS","Unknown","17-25","non_wearing_seatbelts","Police issued",20
+2023,"2023-03-01","2023-03-31","TAS","Unknown","26-39","non_wearing_seatbelts","Police issued",31
+2023,"2023-03-01","2023-03-31","TAS","Unknown","40-64","non_wearing_seatbelts","Police issued",29
+2023,"2023-03-01","2023-03-31","TAS","Unknown","65 and over","non_wearing_seatbelts","Police issued",12
+2023,"2023-03-01","2023-03-31","VIC","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",2
+2023,"2023-03-01","2023-03-31","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",64
+2023,"2023-03-01","2023-03-31","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",71
+2023,"2023-03-01","2023-03-31","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",68
+2023,"2023-03-01","2023-03-31","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",13
+2023,"2023-03-01","2023-03-31","VIC","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",3
+2023,"2023-03-01","2023-03-31","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",79
+2023,"2023-03-01","2023-03-31","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",178
+2023,"2023-03-01","2023-03-31","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",133
+2023,"2023-03-01","2023-03-31","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",11
+2023,"2023-03-01","2023-03-31","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",11
+2023,"2023-03-01","2023-03-31","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",17
+2023,"2023-03-01","2023-03-31","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",12
+2023,"2023-03-01","2023-03-31","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",6
+2023,"2023-03-01","2023-03-31","VIC","Unknown","26-39","non_wearing_seatbelts","Police issued",3
+2023,"2023-03-01","2023-03-31","VIC","Unknown","40-64","non_wearing_seatbelts","Police issued",2
+2023,"2023-03-01","2023-03-31","WA","Unknown","17-25","non_wearing_seatbelts","Police issued",40
+2023,"2023-03-01","2023-03-31","WA","Unknown","26-39","non_wearing_seatbelts","Police issued",76
+2023,"2023-03-01","2023-03-31","WA","Unknown","40-64","non_wearing_seatbelts","Police issued",61
+2023,"2023-03-01","2023-03-31","WA","Unknown","65 and over","non_wearing_seatbelts","Police issued",8
+2023,"2023-04-01","2023-04-30","ACT","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",2
+2023,"2023-04-01","2023-04-30","ACT","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",3
+2023,"2023-04-01","2023-04-30","NSW","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",4
+2023,"2023-04-01","2023-04-30","NSW","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",69
+2023,"2023-04-01","2023-04-30","NSW","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",129
+2023,"2023-04-01","2023-04-30","NSW","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",77
+2023,"2023-04-01","2023-04-30","NSW","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",14
+2023,"2023-04-01","2023-04-30","NSW","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",4
+2023,"2023-04-01","2023-04-30","NSW","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",155
+2023,"2023-04-01","2023-04-30","NSW","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",280
+2023,"2023-04-01","2023-04-30","NSW","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",171
+2023,"2023-04-01","2023-04-30","NSW","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",23
+2023,"2023-04-01","2023-04-30","NSW","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",16
+2023,"2023-04-01","2023-04-30","NSW","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",57
+2023,"2023-04-01","2023-04-30","NSW","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",22
+2023,"2023-04-01","2023-04-30","NSW","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",6
+2023,"2023-04-01","2023-04-30","NSW","Remote Australia","17-25","non_wearing_seatbelts","Police issued",6
+2023,"2023-04-01","2023-04-30","NSW","Remote Australia","26-39","non_wearing_seatbelts","Police issued",6
+2023,"2023-04-01","2023-04-30","NSW","Remote Australia","40-64","non_wearing_seatbelts","Police issued",3
+2023,"2023-04-01","2023-04-30","NSW","Remote Australia","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-04-01","2023-04-30","NSW","Unknown","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-04-01","2023-04-30","NSW","Very Remote Australia","17-25","non_wearing_seatbelts","Police issued",0
+2023,"2023-04-01","2023-04-30","NSW","Very Remote Australia","26-39","non_wearing_seatbelts","Police issued",3
+2023,"2023-04-01","2023-04-30","NSW","Very Remote Australia","40-64","non_wearing_seatbelts","Police issued",3
+2023,"2023-04-01","2023-04-30","NT","Unknown","17-25","non_wearing_seatbelts","Police issued",9
+2023,"2023-04-01","2023-04-30","NT","Unknown","26-39","non_wearing_seatbelts","Police issued",25
+2023,"2023-04-01","2023-04-30","NT","Unknown","40-64","non_wearing_seatbelts","Police issued",19
+2023,"2023-04-01","2023-04-30","SA","Unknown","0-16","non_wearing_seatbelts","Police issued",0
+2023,"2023-04-01","2023-04-30","SA","Unknown","17-25","non_wearing_seatbelts","Police issued",53
+2023,"2023-04-01","2023-04-30","SA","Unknown","26-39","non_wearing_seatbelts","Police issued",99
+2023,"2023-04-01","2023-04-30","SA","Unknown","40-64","non_wearing_seatbelts","Police issued",96
+2023,"2023-04-01","2023-04-30","SA","Unknown","65 and over","non_wearing_seatbelts","Police issued",33
+2023,"2023-04-01","2023-04-30","SA","Unknown","Unknown","non_wearing_seatbelts","Police issued",0
+2023,"2023-04-01","2023-04-30","TAS","Unknown","17-25","non_wearing_seatbelts","Police issued",17
+2023,"2023-04-01","2023-04-30","TAS","Unknown","26-39","non_wearing_seatbelts","Police issued",14
+2023,"2023-04-01","2023-04-30","TAS","Unknown","40-64","non_wearing_seatbelts","Police issued",16
+2023,"2023-04-01","2023-04-30","TAS","Unknown","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-04-01","2023-04-30","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",37
+2023,"2023-04-01","2023-04-30","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",65
+2023,"2023-04-01","2023-04-30","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",63
+2023,"2023-04-01","2023-04-30","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",17
+2023,"2023-04-01","2023-04-30","VIC","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",2
+2023,"2023-04-01","2023-04-30","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",72
+2023,"2023-04-01","2023-04-30","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",161
+2023,"2023-04-01","2023-04-30","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",134
+2023,"2023-04-01","2023-04-30","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",17
+2023,"2023-04-01","2023-04-30","VIC","Major Cities of Australia","Unknown","non_wearing_seatbelts","Police issued",2
+2023,"2023-04-01","2023-04-30","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",4
+2023,"2023-04-01","2023-04-30","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",10
+2023,"2023-04-01","2023-04-30","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",3
+2023,"2023-04-01","2023-04-30","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",3
+2023,"2023-04-01","2023-04-30","VIC","Unknown","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-04-01","2023-04-30","VIC","Unknown","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-04-01","2023-04-30","WA","Unknown","17-25","non_wearing_seatbelts","Police issued",38
+2023,"2023-04-01","2023-04-30","WA","Unknown","26-39","non_wearing_seatbelts","Police issued",47
+2023,"2023-04-01","2023-04-30","WA","Unknown","40-64","non_wearing_seatbelts","Police issued",55
+2023,"2023-04-01","2023-04-30","WA","Unknown","65 and over","non_wearing_seatbelts","Police issued",9
+2023,"2023-05-01","2023-05-31","ACT","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",3
+2023,"2023-05-01","2023-05-31","ACT","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",2
+2023,"2023-05-01","2023-05-31","ACT","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",4
+2023,"2023-05-01","2023-05-31","NSW","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-05-01","2023-05-31","NSW","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",71
+2023,"2023-05-01","2023-05-31","NSW","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",88
+2023,"2023-05-01","2023-05-31","NSW","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",69
+2023,"2023-05-01","2023-05-31","NSW","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",8
+2023,"2023-05-01","2023-05-31","NSW","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-05-01","2023-05-31","NSW","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",92
+2023,"2023-05-01","2023-05-31","NSW","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",185
+2023,"2023-05-01","2023-05-31","NSW","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",132
+2023,"2023-05-01","2023-05-31","NSW","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",8
+2023,"2023-05-01","2023-05-31","NSW","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",22
+2023,"2023-05-01","2023-05-31","NSW","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",42
+2023,"2023-05-01","2023-05-31","NSW","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",20
+2023,"2023-05-01","2023-05-31","NSW","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",5
+2023,"2023-05-01","2023-05-31","NSW","Remote Australia","17-25","non_wearing_seatbelts","Police issued",3
+2023,"2023-05-01","2023-05-31","NSW","Remote Australia","26-39","non_wearing_seatbelts","Police issued",2
+2023,"2023-05-01","2023-05-31","NSW","Remote Australia","40-64","non_wearing_seatbelts","Police issued",5
+2023,"2023-05-01","2023-05-31","NSW","Unknown","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-05-01","2023-05-31","NSW","Unknown","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-05-01","2023-05-31","NSW","Very Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-05-01","2023-05-31","NT","Unknown","17-25","non_wearing_seatbelts","Police issued",11
+2023,"2023-05-01","2023-05-31","NT","Unknown","26-39","non_wearing_seatbelts","Police issued",25
+2023,"2023-05-01","2023-05-31","NT","Unknown","40-64","non_wearing_seatbelts","Police issued",13
+2023,"2023-05-01","2023-05-31","NT","Unknown","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-05-01","2023-05-31","SA","Unknown","0-16","non_wearing_seatbelts","Police issued",0
+2023,"2023-05-01","2023-05-31","SA","Unknown","17-25","non_wearing_seatbelts","Police issued",24
+2023,"2023-05-01","2023-05-31","SA","Unknown","26-39","non_wearing_seatbelts","Police issued",49
+2023,"2023-05-01","2023-05-31","SA","Unknown","40-64","non_wearing_seatbelts","Police issued",67
+2023,"2023-05-01","2023-05-31","SA","Unknown","65 and over","non_wearing_seatbelts","Police issued",22
+2023,"2023-05-01","2023-05-31","SA","Unknown","Unknown","non_wearing_seatbelts","Police issued",0
+2023,"2023-05-01","2023-05-31","TAS","Unknown","17-25","non_wearing_seatbelts","Police issued",9
+2023,"2023-05-01","2023-05-31","TAS","Unknown","26-39","non_wearing_seatbelts","Police issued",17
+2023,"2023-05-01","2023-05-31","TAS","Unknown","40-64","non_wearing_seatbelts","Police issued",13
+2023,"2023-05-01","2023-05-31","TAS","Unknown","65 and over","non_wearing_seatbelts","Police issued",5
+2023,"2023-05-01","2023-05-31","VIC","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-05-01","2023-05-31","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",27
+2023,"2023-05-01","2023-05-31","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",54
+2023,"2023-05-01","2023-05-31","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",60
+2023,"2023-05-01","2023-05-31","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",21
+2023,"2023-05-01","2023-05-31","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",48
+2023,"2023-05-01","2023-05-31","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",140
+2023,"2023-05-01","2023-05-31","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",99
+2023,"2023-05-01","2023-05-31","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",21
+2023,"2023-05-01","2023-05-31","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",9
+2023,"2023-05-01","2023-05-31","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",7
+2023,"2023-05-01","2023-05-31","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",9
+2023,"2023-05-01","2023-05-31","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",2
+2023,"2023-05-01","2023-05-31","VIC","Unknown","26-39","non_wearing_seatbelts","Police issued",2
+2023,"2023-05-01","2023-05-31","VIC","Unknown","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-05-01","2023-05-31","VIC","Unknown","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-05-01","2023-05-31","WA","Unknown","17-25","non_wearing_seatbelts","Police issued",22
+2023,"2023-05-01","2023-05-31","WA","Unknown","26-39","non_wearing_seatbelts","Police issued",49
+2023,"2023-05-01","2023-05-31","WA","Unknown","40-64","non_wearing_seatbelts","Police issued",33
+2023,"2023-05-01","2023-05-31","WA","Unknown","65 and over","non_wearing_seatbelts","Police issued",9
+2023,"2023-06-01","2023-06-30","ACT","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",2
+2023,"2023-06-01","2023-06-30","ACT","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",2
+2023,"2023-06-01","2023-06-30","NSW","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",84
+2023,"2023-06-01","2023-06-30","NSW","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",144
+2023,"2023-06-01","2023-06-30","NSW","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",81
+2023,"2023-06-01","2023-06-30","NSW","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",23
+2023,"2023-06-01","2023-06-30","NSW","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",3
+2023,"2023-06-01","2023-06-30","NSW","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",137
+2023,"2023-06-01","2023-06-30","NSW","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",247
+2023,"2023-06-01","2023-06-30","NSW","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",155
+2023,"2023-06-01","2023-06-30","NSW","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",20
+2023,"2023-06-01","2023-06-30","NSW","Outer Regional Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-06-01","2023-06-30","NSW","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",37
+2023,"2023-06-01","2023-06-30","NSW","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",57
+2023,"2023-06-01","2023-06-30","NSW","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",44
+2023,"2023-06-01","2023-06-30","NSW","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",4
+2023,"2023-06-01","2023-06-30","NSW","Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-06-01","2023-06-30","NSW","Remote Australia","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-06-01","2023-06-30","NSW","Remote Australia","65 and over","non_wearing_seatbelts","Police issued",2
+2023,"2023-06-01","2023-06-30","NSW","Unknown","26-39","non_wearing_seatbelts","Police issued",3
+2023,"2023-06-01","2023-06-30","NSW","Unknown","40-64","non_wearing_seatbelts","Police issued",2
+2023,"2023-06-01","2023-06-30","NSW","Very Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-06-01","2023-06-30","NSW","Very Remote Australia","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-06-01","2023-06-30","NT","Unknown","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-06-01","2023-06-30","NT","Unknown","17-25","non_wearing_seatbelts","Police issued",14
+2023,"2023-06-01","2023-06-30","NT","Unknown","26-39","non_wearing_seatbelts","Police issued",22
+2023,"2023-06-01","2023-06-30","NT","Unknown","40-64","non_wearing_seatbelts","Police issued",22
+2023,"2023-06-01","2023-06-30","NT","Unknown","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-06-01","2023-06-30","SA","Unknown","0-16","non_wearing_seatbelts","Police issued",3
+2023,"2023-06-01","2023-06-30","SA","Unknown","17-25","non_wearing_seatbelts","Police issued",29
+2023,"2023-06-01","2023-06-30","SA","Unknown","26-39","non_wearing_seatbelts","Police issued",67
+2023,"2023-06-01","2023-06-30","SA","Unknown","40-64","non_wearing_seatbelts","Police issued",58
+2023,"2023-06-01","2023-06-30","SA","Unknown","65 and over","non_wearing_seatbelts","Police issued",19
+2023,"2023-06-01","2023-06-30","SA","Unknown","Unknown","non_wearing_seatbelts","Police issued",0
+2023,"2023-06-01","2023-06-30","TAS","Unknown","17-25","non_wearing_seatbelts","Police issued",16
+2023,"2023-06-01","2023-06-30","TAS","Unknown","26-39","non_wearing_seatbelts","Police issued",19
+2023,"2023-06-01","2023-06-30","TAS","Unknown","40-64","non_wearing_seatbelts","Police issued",16
+2023,"2023-06-01","2023-06-30","TAS","Unknown","65 and over","non_wearing_seatbelts","Police issued",6
+2023,"2023-06-01","2023-06-30","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",33
+2023,"2023-06-01","2023-06-30","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",56
+2023,"2023-06-01","2023-06-30","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",63
+2023,"2023-06-01","2023-06-30","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",9
+2023,"2023-06-01","2023-06-30","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",72
+2023,"2023-06-01","2023-06-30","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",160
+2023,"2023-06-01","2023-06-30","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",101
+2023,"2023-06-01","2023-06-30","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",11
+2023,"2023-06-01","2023-06-30","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",6
+2023,"2023-06-01","2023-06-30","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",6
+2023,"2023-06-01","2023-06-30","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",9
+2023,"2023-06-01","2023-06-30","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",4
+2023,"2023-06-01","2023-06-30","VIC","Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-06-01","2023-06-30","VIC","Unknown","17-25","non_wearing_seatbelts","Police issued",2
+2023,"2023-06-01","2023-06-30","VIC","Unknown","26-39","non_wearing_seatbelts","Police issued",3
+2023,"2023-06-01","2023-06-30","VIC","Unknown","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-06-01","2023-06-30","VIC","Unknown","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-06-01","2023-06-30","WA","Unknown","17-25","non_wearing_seatbelts","Police issued",33
+2023,"2023-06-01","2023-06-30","WA","Unknown","26-39","non_wearing_seatbelts","Police issued",57
+2023,"2023-06-01","2023-06-30","WA","Unknown","40-64","non_wearing_seatbelts","Police issued",45
+2023,"2023-06-01","2023-06-30","WA","Unknown","65 and over","non_wearing_seatbelts","Police issued",14
+2023,"2023-07-01","2023-07-31","ACT","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",8
+2023,"2023-07-01","2023-07-31","ACT","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",2
+2023,"2023-07-01","2023-07-31","NSW","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",2
+2023,"2023-07-01","2023-07-31","NSW","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",43
+2023,"2023-07-01","2023-07-31","NSW","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",69
+2023,"2023-07-01","2023-07-31","NSW","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",53
+2023,"2023-07-01","2023-07-31","NSW","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",21
+2023,"2023-07-01","2023-07-31","NSW","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-07-01","2023-07-31","NSW","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",85
+2023,"2023-07-01","2023-07-31","NSW","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",151
+2023,"2023-07-01","2023-07-31","NSW","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",115
+2023,"2023-07-01","2023-07-31","NSW","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",12
+2023,"2023-07-01","2023-07-31","NSW","Outer Regional Australia","0-16","non_wearing_seatbelts","Police issued",2
+2023,"2023-07-01","2023-07-31","NSW","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",12
+2023,"2023-07-01","2023-07-31","NSW","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",34
+2023,"2023-07-01","2023-07-31","NSW","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",23
+2023,"2023-07-01","2023-07-31","NSW","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",10
+2023,"2023-07-01","2023-07-31","NSW","Remote Australia","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-07-01","2023-07-31","NSW","Remote Australia","26-39","non_wearing_seatbelts","Police issued",2
+2023,"2023-07-01","2023-07-31","NSW","Unknown","17-25","non_wearing_seatbelts","Police issued",2
+2023,"2023-07-01","2023-07-31","NSW","Very Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-07-01","2023-07-31","NT","Unknown","17-25","non_wearing_seatbelts","Police issued",12
+2023,"2023-07-01","2023-07-31","NT","Unknown","26-39","non_wearing_seatbelts","Police issued",40
+2023,"2023-07-01","2023-07-31","NT","Unknown","40-64","non_wearing_seatbelts","Police issued",28
+2023,"2023-07-01","2023-07-31","SA","Unknown","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-07-01","2023-07-31","SA","Unknown","17-25","non_wearing_seatbelts","Police issued",39
+2023,"2023-07-01","2023-07-31","SA","Unknown","26-39","non_wearing_seatbelts","Police issued",72
+2023,"2023-07-01","2023-07-31","SA","Unknown","40-64","non_wearing_seatbelts","Police issued",74
+2023,"2023-07-01","2023-07-31","SA","Unknown","65 and over","non_wearing_seatbelts","Police issued",31
+2023,"2023-07-01","2023-07-31","SA","Unknown","Unknown","non_wearing_seatbelts","Police issued",0
+2023,"2023-07-01","2023-07-31","TAS","Unknown","0-16","non_wearing_seatbelts","Police issued",0
+2023,"2023-07-01","2023-07-31","TAS","Unknown","17-25","non_wearing_seatbelts","Police issued",11
+2023,"2023-07-01","2023-07-31","TAS","Unknown","26-39","non_wearing_seatbelts","Police issued",13
+2023,"2023-07-01","2023-07-31","TAS","Unknown","40-64","non_wearing_seatbelts","Police issued",14
+2023,"2023-07-01","2023-07-31","TAS","Unknown","65 and over","non_wearing_seatbelts","Police issued",11
+2023,"2023-07-01","2023-07-31","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",26
+2023,"2023-07-01","2023-07-31","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",66
+2023,"2023-07-01","2023-07-31","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",49
+2023,"2023-07-01","2023-07-31","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",19
+2023,"2023-07-01","2023-07-31","VIC","Inner Regional Australia","Unknown","non_wearing_seatbelts","Mobile camera",242
+2023,"2023-07-01","2023-07-31","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",53
+2023,"2023-07-01","2023-07-31","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",154
+2023,"2023-07-01","2023-07-31","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",118
+2023,"2023-07-01","2023-07-31","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",24
+2023,"2023-07-01","2023-07-31","VIC","Major Cities of Australia","Unknown","non_wearing_seatbelts","Mobile camera",2466
+2023,"2023-07-01","2023-07-31","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",5
+2023,"2023-07-01","2023-07-31","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",11
+2023,"2023-07-01","2023-07-31","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",14
+2023,"2023-07-01","2023-07-31","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",4
+2023,"2023-07-01","2023-07-31","VIC","Outer Regional Australia","Unknown","non_wearing_seatbelts","Mobile camera",9
+2023,"2023-07-01","2023-07-31","VIC","Unknown","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-07-01","2023-07-31","VIC","Unknown","40-64","non_wearing_seatbelts","Police issued",3
+2023,"2023-07-01","2023-07-31","VIC","Unknown","Unknown","non_wearing_seatbelts","Mobile camera",149
+2023,"2023-07-01","2023-07-31","WA","Unknown","17-25","non_wearing_seatbelts","Police issued",32
+2023,"2023-07-01","2023-07-31","WA","Unknown","26-39","non_wearing_seatbelts","Police issued",53
+2023,"2023-07-01","2023-07-31","WA","Unknown","40-64","non_wearing_seatbelts","Police issued",34
+2023,"2023-07-01","2023-07-31","WA","Unknown","65 and over","non_wearing_seatbelts","Police issued",9
+2023,"2023-08-01","2023-08-31","ACT","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",2
+2023,"2023-08-01","2023-08-31","ACT","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-08-01","2023-08-31","ACT","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",4
+2023,"2023-08-01","2023-08-31","NSW","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",2
+2023,"2023-08-01","2023-08-31","NSW","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",73
+2023,"2023-08-01","2023-08-31","NSW","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",94
+2023,"2023-08-01","2023-08-31","NSW","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",65
+2023,"2023-08-01","2023-08-31","NSW","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",14
+2023,"2023-08-01","2023-08-31","NSW","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-08-01","2023-08-31","NSW","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",113
+2023,"2023-08-01","2023-08-31","NSW","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",132
+2023,"2023-08-01","2023-08-31","NSW","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",84
+2023,"2023-08-01","2023-08-31","NSW","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",18
+2023,"2023-08-01","2023-08-31","NSW","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",12
+2023,"2023-08-01","2023-08-31","NSW","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",18
+2023,"2023-08-01","2023-08-31","NSW","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",40
+2023,"2023-08-01","2023-08-31","NSW","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",12
+2023,"2023-08-01","2023-08-31","NSW","Remote Australia","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-08-01","2023-08-31","NSW","Remote Australia","40-64","non_wearing_seatbelts","Police issued",2
+2023,"2023-08-01","2023-08-31","NSW","Remote Australia","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-08-01","2023-08-31","NSW","Unknown","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-08-01","2023-08-31","NSW","Unknown","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-08-01","2023-08-31","NSW","Very Remote Australia","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-08-01","2023-08-31","NSW","Very Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-08-01","2023-08-31","NSW","Very Remote Australia","40-64","non_wearing_seatbelts","Police issued",0
+2023,"2023-08-01","2023-08-31","NT","Unknown","17-25","non_wearing_seatbelts","Police issued",14
+2023,"2023-08-01","2023-08-31","NT","Unknown","26-39","non_wearing_seatbelts","Police issued",42
+2023,"2023-08-01","2023-08-31","NT","Unknown","40-64","non_wearing_seatbelts","Police issued",30
+2023,"2023-08-01","2023-08-31","NT","Unknown","65 and over","non_wearing_seatbelts","Police issued",3
+2023,"2023-08-01","2023-08-31","SA","Unknown","0-16","non_wearing_seatbelts","Police issued",0
+2023,"2023-08-01","2023-08-31","SA","Unknown","17-25","non_wearing_seatbelts","Police issued",35
+2023,"2023-08-01","2023-08-31","SA","Unknown","26-39","non_wearing_seatbelts","Police issued",73
+2023,"2023-08-01","2023-08-31","SA","Unknown","40-64","non_wearing_seatbelts","Police issued",89
+2023,"2023-08-01","2023-08-31","SA","Unknown","65 and over","non_wearing_seatbelts","Police issued",42
+2023,"2023-08-01","2023-08-31","SA","Unknown","Unknown","non_wearing_seatbelts","Police issued",0
+2023,"2023-08-01","2023-08-31","TAS","Unknown","0-16","non_wearing_seatbelts","Police issued",0
+2023,"2023-08-01","2023-08-31","TAS","Unknown","17-25","non_wearing_seatbelts","Fixed or mobile camera",2
+2023,"2023-08-01","2023-08-31","TAS","Unknown","17-25","non_wearing_seatbelts","Police issued",9
+2023,"2023-08-01","2023-08-31","TAS","Unknown","26-39","non_wearing_seatbelts","Fixed or mobile camera",10
+2023,"2023-08-01","2023-08-31","TAS","Unknown","26-39","non_wearing_seatbelts","Police issued",21
+2023,"2023-08-01","2023-08-31","TAS","Unknown","40-64","non_wearing_seatbelts","Fixed or mobile camera",12
+2023,"2023-08-01","2023-08-31","TAS","Unknown","40-64","non_wearing_seatbelts","Police issued",13
+2023,"2023-08-01","2023-08-31","TAS","Unknown","65 and over","non_wearing_seatbelts","Fixed or mobile camera",8
+2023,"2023-08-01","2023-08-31","TAS","Unknown","65 and over","non_wearing_seatbelts","Police issued",5
+2023,"2023-08-01","2023-08-31","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",27
+2023,"2023-08-01","2023-08-31","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",53
+2023,"2023-08-01","2023-08-31","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",51
+2023,"2023-08-01","2023-08-31","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",11
+2023,"2023-08-01","2023-08-31","VIC","Inner Regional Australia","Unknown","non_wearing_seatbelts","Mobile camera",3357
+2023,"2023-08-01","2023-08-31","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",76
+2023,"2023-08-01","2023-08-31","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",200
+2023,"2023-08-01","2023-08-31","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",132
+2023,"2023-08-01","2023-08-31","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",30
+2023,"2023-08-01","2023-08-31","VIC","Major Cities of Australia","Unknown","non_wearing_seatbelts","Mobile camera",431
+2023,"2023-08-01","2023-08-31","VIC","Major Cities of Australia","Unknown","non_wearing_seatbelts","Police issued",1
+2023,"2023-08-01","2023-08-31","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",12
+2023,"2023-08-01","2023-08-31","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",22
+2023,"2023-08-01","2023-08-31","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",17
+2023,"2023-08-01","2023-08-31","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",7
+2023,"2023-08-01","2023-08-31","VIC","Remote Australia","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-08-01","2023-08-31","VIC","Unknown","26-39","non_wearing_seatbelts","Police issued",6
+2023,"2023-08-01","2023-08-31","VIC","Unknown","40-64","non_wearing_seatbelts","Police issued",3
+2023,"2023-08-01","2023-08-31","VIC","Unknown","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-08-01","2023-08-31","VIC","Unknown","Unknown","non_wearing_seatbelts","Mobile camera",524
+2023,"2023-08-01","2023-08-31","WA","Unknown","17-25","non_wearing_seatbelts","Police issued",44
+2023,"2023-08-01","2023-08-31","WA","Unknown","26-39","non_wearing_seatbelts","Police issued",63
+2023,"2023-08-01","2023-08-31","WA","Unknown","40-64","non_wearing_seatbelts","Police issued",33
+2023,"2023-08-01","2023-08-31","WA","Unknown","65 and over","non_wearing_seatbelts","Police issued",9
+2023,"2023-08-01","2023-08-31","WA","Unknown","Unknown","non_wearing_seatbelts","Police issued",1
+2023,"2023-09-01","2023-09-30","ACT","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",2
+2023,"2023-09-01","2023-09-30","ACT","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",2
+2023,"2023-09-01","2023-09-30","ACT","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-09-01","2023-09-30","ACT","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",2
+2023,"2023-09-01","2023-09-30","NSW","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",3
+2023,"2023-09-01","2023-09-30","NSW","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",63
+2023,"2023-09-01","2023-09-30","NSW","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",108
+2023,"2023-09-01","2023-09-30","NSW","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",56
+2023,"2023-09-01","2023-09-30","NSW","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",12
+2023,"2023-09-01","2023-09-30","NSW","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",3
+2023,"2023-09-01","2023-09-30","NSW","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",98
+2023,"2023-09-01","2023-09-30","NSW","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",158
+2023,"2023-09-01","2023-09-30","NSW","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",104
+2023,"2023-09-01","2023-09-30","NSW","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",17
+2023,"2023-09-01","2023-09-30","NSW","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",24
+2023,"2023-09-01","2023-09-30","NSW","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",29
+2023,"2023-09-01","2023-09-30","NSW","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",28
+2023,"2023-09-01","2023-09-30","NSW","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",7
+2023,"2023-09-01","2023-09-30","NSW","Remote Australia","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-09-01","2023-09-30","NSW","Remote Australia","26-39","non_wearing_seatbelts","Police issued",7
+2023,"2023-09-01","2023-09-30","NSW","Remote Australia","40-64","non_wearing_seatbelts","Police issued",9
+2023,"2023-09-01","2023-09-30","NSW","Unknown","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-09-01","2023-09-30","NSW","Unknown","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-09-01","2023-09-30","NSW","Unknown","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-09-01","2023-09-30","NSW","Very Remote Australia","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-09-01","2023-09-30","NSW","Very Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-09-01","2023-09-30","NT","Unknown","17-25","non_wearing_seatbelts","Police issued",9
+2023,"2023-09-01","2023-09-30","NT","Unknown","26-39","non_wearing_seatbelts","Police issued",25
+2023,"2023-09-01","2023-09-30","NT","Unknown","40-64","non_wearing_seatbelts","Police issued",31
+2023,"2023-09-01","2023-09-30","NT","Unknown","65 and over","non_wearing_seatbelts","Police issued",2
+2023,"2023-09-01","2023-09-30","SA","Unknown","0-16","non_wearing_seatbelts","Police issued",2
+2023,"2023-09-01","2023-09-30","SA","Unknown","17-25","non_wearing_seatbelts","Police issued",47
+2023,"2023-09-01","2023-09-30","SA","Unknown","26-39","non_wearing_seatbelts","Police issued",86
+2023,"2023-09-01","2023-09-30","SA","Unknown","40-64","non_wearing_seatbelts","Police issued",79
+2023,"2023-09-01","2023-09-30","SA","Unknown","65 and over","non_wearing_seatbelts","Police issued",43
+2023,"2023-09-01","2023-09-30","SA","Unknown","Unknown","non_wearing_seatbelts","Police issued",0
+2023,"2023-09-01","2023-09-30","TAS","Unknown","17-25","non_wearing_seatbelts","Fixed or mobile camera",27
+2023,"2023-09-01","2023-09-30","TAS","Unknown","17-25","non_wearing_seatbelts","Police issued",16
+2023,"2023-09-01","2023-09-30","TAS","Unknown","26-39","non_wearing_seatbelts","Fixed or mobile camera",65
+2023,"2023-09-01","2023-09-30","TAS","Unknown","26-39","non_wearing_seatbelts","Police issued",8
+2023,"2023-09-01","2023-09-30","TAS","Unknown","40-64","non_wearing_seatbelts","Fixed or mobile camera",56
+2023,"2023-09-01","2023-09-30","TAS","Unknown","40-64","non_wearing_seatbelts","Police issued",23
+2023,"2023-09-01","2023-09-30","TAS","Unknown","65 and over","non_wearing_seatbelts","Fixed or mobile camera",39
+2023,"2023-09-01","2023-09-30","TAS","Unknown","65 and over","non_wearing_seatbelts","Police issued",7
+2023,"2023-09-01","2023-09-30","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",36
+2023,"2023-09-01","2023-09-30","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",49
+2023,"2023-09-01","2023-09-30","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",42
+2023,"2023-09-01","2023-09-30","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",13
+2023,"2023-09-01","2023-09-30","VIC","Inner Regional Australia","Unknown","non_wearing_seatbelts","Mobile camera",250
+2023,"2023-09-01","2023-09-30","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",86
+2023,"2023-09-01","2023-09-30","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",162
+2023,"2023-09-01","2023-09-30","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",114
+2023,"2023-09-01","2023-09-30","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",20
+2023,"2023-09-01","2023-09-30","VIC","Major Cities of Australia","Unknown","non_wearing_seatbelts","Mobile camera",3816
+2023,"2023-09-01","2023-09-30","VIC","Outer Regional Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-09-01","2023-09-30","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",12
+2023,"2023-09-01","2023-09-30","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",11
+2023,"2023-09-01","2023-09-30","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",19
+2023,"2023-09-01","2023-09-30","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",9
+2023,"2023-09-01","2023-09-30","VIC","Remote Australia","40-64","non_wearing_seatbelts","Police issued",2
+2023,"2023-09-01","2023-09-30","VIC","Remote Australia","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-09-01","2023-09-30","VIC","Unknown","40-64","non_wearing_seatbelts","Police issued",3
+2023,"2023-09-01","2023-09-30","WA","Unknown","17-25","non_wearing_seatbelts","Police issued",30
+2023,"2023-09-01","2023-09-30","WA","Unknown","26-39","non_wearing_seatbelts","Police issued",61
+2023,"2023-09-01","2023-09-30","WA","Unknown","40-64","non_wearing_seatbelts","Police issued",35
+2023,"2023-09-01","2023-09-30","WA","Unknown","65 and over","non_wearing_seatbelts","Police issued",4
+2023,"2023-10-01","2023-10-31","ACT","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",3
+2023,"2023-10-01","2023-10-31","ACT","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",2
+2023,"2023-10-01","2023-10-31","ACT","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-10-01","2023-10-31","NSW","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-10-01","2023-10-31","NSW","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",71
+2023,"2023-10-01","2023-10-31","NSW","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",89
+2023,"2023-10-01","2023-10-31","NSW","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",66
+2023,"2023-10-01","2023-10-31","NSW","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",12
+2023,"2023-10-01","2023-10-31","NSW","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",4
+2023,"2023-10-01","2023-10-31","NSW","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",127
+2023,"2023-10-01","2023-10-31","NSW","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",158
+2023,"2023-10-01","2023-10-31","NSW","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",111
+2023,"2023-10-01","2023-10-31","NSW","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",17
+2023,"2023-10-01","2023-10-31","NSW","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",28
+2023,"2023-10-01","2023-10-31","NSW","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",32
+2023,"2023-10-01","2023-10-31","NSW","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",34
+2023,"2023-10-01","2023-10-31","NSW","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",8
+2023,"2023-10-01","2023-10-31","NSW","Remote Australia","26-39","non_wearing_seatbelts","Police issued",6
+2023,"2023-10-01","2023-10-31","NSW","Remote Australia","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-10-01","2023-10-31","NSW","Unknown","17-25","non_wearing_seatbelts","Police issued",2
+2023,"2023-10-01","2023-10-31","NSW","Unknown","26-39","non_wearing_seatbelts","Police issued",3
+2023,"2023-10-01","2023-10-31","NSW","Unknown","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-10-01","2023-10-31","NT","Unknown","17-25","non_wearing_seatbelts","Police issued",13
+2023,"2023-10-01","2023-10-31","NT","Unknown","26-39","non_wearing_seatbelts","Police issued",31
+2023,"2023-10-01","2023-10-31","NT","Unknown","40-64","non_wearing_seatbelts","Police issued",16
+2023,"2023-10-01","2023-10-31","NT","Unknown","65 and over","non_wearing_seatbelts","Police issued",2
+2023,"2023-10-01","2023-10-31","SA","Unknown","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-10-01","2023-10-31","SA","Unknown","17-25","non_wearing_seatbelts","Police issued",46
+2023,"2023-10-01","2023-10-31","SA","Unknown","26-39","non_wearing_seatbelts","Police issued",90
+2023,"2023-10-01","2023-10-31","SA","Unknown","40-64","non_wearing_seatbelts","Police issued",82
+2023,"2023-10-01","2023-10-31","SA","Unknown","65 and over","non_wearing_seatbelts","Police issued",27
+2023,"2023-10-01","2023-10-31","SA","Unknown","Unknown","non_wearing_seatbelts","Police issued",0
+2023,"2023-10-01","2023-10-31","TAS","Unknown","17-25","non_wearing_seatbelts","Fixed or mobile camera",60
+2023,"2023-10-01","2023-10-31","TAS","Unknown","17-25","non_wearing_seatbelts","Police issued",17
+2023,"2023-10-01","2023-10-31","TAS","Unknown","26-39","non_wearing_seatbelts","Fixed or mobile camera",131
+2023,"2023-10-01","2023-10-31","TAS","Unknown","26-39","non_wearing_seatbelts","Police issued",20
+2023,"2023-10-01","2023-10-31","TAS","Unknown","40-64","non_wearing_seatbelts","Fixed or mobile camera",170
+2023,"2023-10-01","2023-10-31","TAS","Unknown","40-64","non_wearing_seatbelts","Police issued",18
+2023,"2023-10-01","2023-10-31","TAS","Unknown","65 and over","non_wearing_seatbelts","Fixed or mobile camera",63
+2023,"2023-10-01","2023-10-31","TAS","Unknown","65 and over","non_wearing_seatbelts","Police issued",11
+2023,"2023-10-01","2023-10-31","TAS","Unknown","Unknown","non_wearing_seatbelts","Fixed or mobile camera",1
+2023,"2023-10-01","2023-10-31","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Mobile camera",40
+2023,"2023-10-01","2023-10-31","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",25
+2023,"2023-10-01","2023-10-31","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Mobile camera",146
+2023,"2023-10-01","2023-10-31","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",44
+2023,"2023-10-01","2023-10-31","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Mobile camera",175
+2023,"2023-10-01","2023-10-31","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",45
+2023,"2023-10-01","2023-10-31","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Mobile camera",104
+2023,"2023-10-01","2023-10-31","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",6
+2023,"2023-10-01","2023-10-31","VIC","Inner Regional Australia","Unknown","non_wearing_seatbelts","Mobile camera",271
+2023,"2023-10-01","2023-10-31","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Mobile camera",184
+2023,"2023-10-01","2023-10-31","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",59
+2023,"2023-10-01","2023-10-31","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Mobile camera",895
+2023,"2023-10-01","2023-10-31","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",155
+2023,"2023-10-01","2023-10-31","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Mobile camera",1150
+2023,"2023-10-01","2023-10-31","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",82
+2023,"2023-10-01","2023-10-31","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Mobile camera",409
+2023,"2023-10-01","2023-10-31","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",16
+2023,"2023-10-01","2023-10-31","VIC","Major Cities of Australia","Unknown","non_wearing_seatbelts","Mobile camera",1313
+2023,"2023-10-01","2023-10-31","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",7
+2023,"2023-10-01","2023-10-31","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",13
+2023,"2023-10-01","2023-10-31","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",20
+2023,"2023-10-01","2023-10-31","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",8
+2023,"2023-10-01","2023-10-31","VIC","Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-10-01","2023-10-31","VIC","Remote Australia","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-10-01","2023-10-31","VIC","Unknown","17-25","non_wearing_seatbelts","Mobile camera",4
+2023,"2023-10-01","2023-10-31","VIC","Unknown","17-25","non_wearing_seatbelts","Police issued",2
+2023,"2023-10-01","2023-10-31","VIC","Unknown","26-39","non_wearing_seatbelts","Mobile camera",18
+2023,"2023-10-01","2023-10-31","VIC","Unknown","26-39","non_wearing_seatbelts","Police issued",2
+2023,"2023-10-01","2023-10-31","VIC","Unknown","40-64","non_wearing_seatbelts","Mobile camera",18
+2023,"2023-10-01","2023-10-31","VIC","Unknown","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-10-01","2023-10-31","VIC","Unknown","65 and over","non_wearing_seatbelts","Mobile camera",5
+2023,"2023-10-01","2023-10-31","VIC","Unknown","Unknown","non_wearing_seatbelts","Mobile camera",7
+2023,"2023-10-01","2023-10-31","WA","Unknown","17-25","non_wearing_seatbelts","Police issued",25
+2023,"2023-10-01","2023-10-31","WA","Unknown","26-39","non_wearing_seatbelts","Police issued",56
+2023,"2023-10-01","2023-10-31","WA","Unknown","40-64","non_wearing_seatbelts","Police issued",42
+2023,"2023-10-01","2023-10-31","WA","Unknown","65 and over","non_wearing_seatbelts","Police issued",8
+2023,"2023-11-01","2023-11-30","ACT","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-11-01","2023-11-30","ACT","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",5
+2023,"2023-11-01","2023-11-30","ACT","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-11-01","2023-11-30","ACT","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-11-01","2023-11-30","NSW","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",2
+2023,"2023-11-01","2023-11-30","NSW","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",64
+2023,"2023-11-01","2023-11-30","NSW","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",105
+2023,"2023-11-01","2023-11-30","NSW","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",69
+2023,"2023-11-01","2023-11-30","NSW","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",18
+2023,"2023-11-01","2023-11-30","NSW","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",3
+2023,"2023-11-01","2023-11-30","NSW","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",92
+2023,"2023-11-01","2023-11-30","NSW","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",154
+2023,"2023-11-01","2023-11-30","NSW","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",61
+2023,"2023-11-01","2023-11-30","NSW","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",18
+2023,"2023-11-01","2023-11-30","NSW","Outer Regional Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-11-01","2023-11-30","NSW","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",33
+2023,"2023-11-01","2023-11-30","NSW","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",26
+2023,"2023-11-01","2023-11-30","NSW","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",40
+2023,"2023-11-01","2023-11-30","NSW","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",7
+2023,"2023-11-01","2023-11-30","NSW","Remote Australia","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-11-01","2023-11-30","NSW","Remote Australia","26-39","non_wearing_seatbelts","Police issued",2
+2023,"2023-11-01","2023-11-30","NSW","Remote Australia","40-64","non_wearing_seatbelts","Police issued",3
+2023,"2023-11-01","2023-11-30","NSW","Remote Australia","65 and over","non_wearing_seatbelts","Police issued",3
+2023,"2023-11-01","2023-11-30","NSW","Unknown","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-11-01","2023-11-30","NSW","Very Remote Australia","17-25","non_wearing_seatbelts","Police issued",1
+2023,"2023-11-01","2023-11-30","NSW","Very Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-11-01","2023-11-30","NSW","Very Remote Australia","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-11-01","2023-11-30","NT","Unknown","17-25","non_wearing_seatbelts","Police issued",9
+2023,"2023-11-01","2023-11-30","NT","Unknown","26-39","non_wearing_seatbelts","Police issued",28
+2023,"2023-11-01","2023-11-30","NT","Unknown","40-64","non_wearing_seatbelts","Police issued",19
+2023,"2023-11-01","2023-11-30","SA","Unknown","0-16","non_wearing_seatbelts","Police issued",0
+2023,"2023-11-01","2023-11-30","SA","Unknown","17-25","non_wearing_seatbelts","Police issued",35
+2023,"2023-11-01","2023-11-30","SA","Unknown","26-39","non_wearing_seatbelts","Police issued",59
+2023,"2023-11-01","2023-11-30","SA","Unknown","40-64","non_wearing_seatbelts","Police issued",80
+2023,"2023-11-01","2023-11-30","SA","Unknown","65 and over","non_wearing_seatbelts","Police issued",21
+2023,"2023-11-01","2023-11-30","SA","Unknown","Unknown","non_wearing_seatbelts","Police issued",0
+2023,"2023-11-01","2023-11-30","TAS","Unknown","17-25","non_wearing_seatbelts","Fixed or mobile camera",59
+2023,"2023-11-01","2023-11-30","TAS","Unknown","17-25","non_wearing_seatbelts","Police issued",11
+2023,"2023-11-01","2023-11-30","TAS","Unknown","26-39","non_wearing_seatbelts","Fixed or mobile camera",147
+2023,"2023-11-01","2023-11-30","TAS","Unknown","26-39","non_wearing_seatbelts","Police issued",25
+2023,"2023-11-01","2023-11-30","TAS","Unknown","40-64","non_wearing_seatbelts","Fixed or mobile camera",146
+2023,"2023-11-01","2023-11-30","TAS","Unknown","40-64","non_wearing_seatbelts","Police issued",23
+2023,"2023-11-01","2023-11-30","TAS","Unknown","65 and over","non_wearing_seatbelts","Fixed or mobile camera",67
+2023,"2023-11-01","2023-11-30","TAS","Unknown","65 and over","non_wearing_seatbelts","Police issued",11
+2023,"2023-11-01","2023-11-30","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Mobile camera",42
+2023,"2023-11-01","2023-11-30","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",33
+2023,"2023-11-01","2023-11-30","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Mobile camera",124
+2023,"2023-11-01","2023-11-30","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",77
+2023,"2023-11-01","2023-11-30","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Mobile camera",220
+2023,"2023-11-01","2023-11-30","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",52
+2023,"2023-11-01","2023-11-30","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Mobile camera",102
+2023,"2023-11-01","2023-11-30","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",15
+2023,"2023-11-01","2023-11-30","VIC","Inner Regional Australia","Unknown","non_wearing_seatbelts","Mobile camera",97
+2023,"2023-11-01","2023-11-30","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Mobile camera",136
+2023,"2023-11-01","2023-11-30","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",60
+2023,"2023-11-01","2023-11-30","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Mobile camera",653
+2023,"2023-11-01","2023-11-30","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",179
+2023,"2023-11-01","2023-11-30","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Mobile camera",765
+2023,"2023-11-01","2023-11-30","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",122
+2023,"2023-11-01","2023-11-30","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Mobile camera",196
+2023,"2023-11-01","2023-11-30","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",13
+2023,"2023-11-01","2023-11-30","VIC","Major Cities of Australia","Unknown","non_wearing_seatbelts","Mobile camera",532
+2023,"2023-11-01","2023-11-30","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Mobile camera",1
+2023,"2023-11-01","2023-11-30","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",9
+2023,"2023-11-01","2023-11-30","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Mobile camera",4
+2023,"2023-11-01","2023-11-30","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",12
+2023,"2023-11-01","2023-11-30","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Mobile camera",11
+2023,"2023-11-01","2023-11-30","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",14
+2023,"2023-11-01","2023-11-30","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Mobile camera",13
+2023,"2023-11-01","2023-11-30","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",5
+2023,"2023-11-01","2023-11-30","VIC","Outer Regional Australia","Unknown","non_wearing_seatbelts","Mobile camera",11
+2023,"2023-11-01","2023-11-30","VIC","Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-11-01","2023-11-30","VIC","Unknown","17-25","non_wearing_seatbelts","Mobile camera",8
+2023,"2023-11-01","2023-11-30","VIC","Unknown","26-39","non_wearing_seatbelts","Mobile camera",48
+2023,"2023-11-01","2023-11-30","VIC","Unknown","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-11-01","2023-11-30","VIC","Unknown","40-64","non_wearing_seatbelts","Mobile camera",42
+2023,"2023-11-01","2023-11-30","VIC","Unknown","40-64","non_wearing_seatbelts","Police issued",5
+2023,"2023-11-01","2023-11-30","VIC","Unknown","65 and over","non_wearing_seatbelts","Mobile camera",16
+2023,"2023-11-01","2023-11-30","VIC","Unknown","Unknown","non_wearing_seatbelts","Mobile camera",22
+2023,"2023-11-01","2023-11-30","WA","Unknown","17-25","non_wearing_seatbelts","Police issued",42
+2023,"2023-11-01","2023-11-30","WA","Unknown","26-39","non_wearing_seatbelts","Police issued",62
+2023,"2023-11-01","2023-11-30","WA","Unknown","40-64","non_wearing_seatbelts","Police issued",46
+2023,"2023-11-01","2023-11-30","WA","Unknown","65 and over","non_wearing_seatbelts","Police issued",6
+2023,"2023-12-01","2023-12-31","ACT","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",3
+2023,"2023-12-01","2023-12-31","ACT","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-12-01","2023-12-31","ACT","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",1
+2023,"2023-12-01","2023-12-31","NSW","Inner Regional Australia","0-16","non_wearing_seatbelts","Police issued",1
+2023,"2023-12-01","2023-12-31","NSW","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",72
+2023,"2023-12-01","2023-12-31","NSW","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",127
+2023,"2023-12-01","2023-12-31","NSW","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",85
+2023,"2023-12-01","2023-12-31","NSW","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",13
+2023,"2023-12-01","2023-12-31","NSW","Major Cities of Australia","0-16","non_wearing_seatbelts","Police issued",5
+2023,"2023-12-01","2023-12-31","NSW","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",143
+2023,"2023-12-01","2023-12-31","NSW","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",185
+2023,"2023-12-01","2023-12-31","NSW","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",128
+2023,"2023-12-01","2023-12-31","NSW","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",23
+2023,"2023-12-01","2023-12-31","NSW","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",9
+2023,"2023-12-01","2023-12-31","NSW","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",46
+2023,"2023-12-01","2023-12-31","NSW","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",29
+2023,"2023-12-01","2023-12-31","NSW","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",8
+2023,"2023-12-01","2023-12-31","NSW","Remote Australia","17-25","non_wearing_seatbelts","Police issued",2
+2023,"2023-12-01","2023-12-31","NSW","Remote Australia","26-39","non_wearing_seatbelts","Police issued",1
+2023,"2023-12-01","2023-12-31","NSW","Remote Australia","40-64","non_wearing_seatbelts","Police issued",5
+2023,"2023-12-01","2023-12-31","NSW","Unknown","17-25","non_wearing_seatbelts","Police issued",44
+2023,"2023-12-01","2023-12-31","NSW","Unknown","26-39","non_wearing_seatbelts","Police issued",78
+2023,"2023-12-01","2023-12-31","NSW","Unknown","40-64","non_wearing_seatbelts","Police issued",44
+2023,"2023-12-01","2023-12-31","NSW","Unknown","65 and over","non_wearing_seatbelts","Police issued",9
+2023,"2023-12-01","2023-12-31","NSW","Very Remote Australia","26-39","non_wearing_seatbelts","Police issued",2
+2023,"2023-12-01","2023-12-31","NSW","Very Remote Australia","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-12-01","2023-12-31","NT","Unknown","17-25","non_wearing_seatbelts","Police issued",9
+2023,"2023-12-01","2023-12-31","NT","Unknown","26-39","non_wearing_seatbelts","Police issued",22
+2023,"2023-12-01","2023-12-31","NT","Unknown","40-64","non_wearing_seatbelts","Police issued",26
+2023,"2023-12-01","2023-12-31","NT","Unknown","65 and over","non_wearing_seatbelts","Police issued",1
+2023,"2023-12-01","2023-12-31","SA","Unknown","0-16","non_wearing_seatbelts","Police issued",2
+2023,"2023-12-01","2023-12-31","SA","Unknown","17-25","non_wearing_seatbelts","Police issued",42
+2023,"2023-12-01","2023-12-31","SA","Unknown","26-39","non_wearing_seatbelts","Police issued",92
+2023,"2023-12-01","2023-12-31","SA","Unknown","40-64","non_wearing_seatbelts","Police issued",110
+2023,"2023-12-01","2023-12-31","SA","Unknown","65 and over","non_wearing_seatbelts","Police issued",40
+2023,"2023-12-01","2023-12-31","SA","Unknown","Unknown","non_wearing_seatbelts","Police issued",0
+2023,"2023-12-01","2023-12-31","TAS","Unknown","0-16","non_wearing_seatbelts","Police issued",0
+2023,"2023-12-01","2023-12-31","TAS","Unknown","17-25","non_wearing_seatbelts","Fixed or mobile camera",39
+2023,"2023-12-01","2023-12-31","TAS","Unknown","17-25","non_wearing_seatbelts","Police issued",16
+2023,"2023-12-01","2023-12-31","TAS","Unknown","26-39","non_wearing_seatbelts","Fixed or mobile camera",82
+2023,"2023-12-01","2023-12-31","TAS","Unknown","26-39","non_wearing_seatbelts","Police issued",25
+2023,"2023-12-01","2023-12-31","TAS","Unknown","40-64","non_wearing_seatbelts","Fixed or mobile camera",94
+2023,"2023-12-01","2023-12-31","TAS","Unknown","40-64","non_wearing_seatbelts","Police issued",26
+2023,"2023-12-01","2023-12-31","TAS","Unknown","65 and over","non_wearing_seatbelts","Fixed or mobile camera",52
+2023,"2023-12-01","2023-12-31","TAS","Unknown","65 and over","non_wearing_seatbelts","Police issued",7
+2023,"2023-12-01","2023-12-31","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Mobile camera",103
+2023,"2023-12-01","2023-12-31","VIC","Inner Regional Australia","17-25","non_wearing_seatbelts","Police issued",32
+2023,"2023-12-01","2023-12-31","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Mobile camera",353
+2023,"2023-12-01","2023-12-31","VIC","Inner Regional Australia","26-39","non_wearing_seatbelts","Police issued",59
+2023,"2023-12-01","2023-12-31","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Mobile camera",521
+2023,"2023-12-01","2023-12-31","VIC","Inner Regional Australia","40-64","non_wearing_seatbelts","Police issued",46
+2023,"2023-12-01","2023-12-31","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Mobile camera",158
+2023,"2023-12-01","2023-12-31","VIC","Inner Regional Australia","65 and over","non_wearing_seatbelts","Police issued",12
+2023,"2023-12-01","2023-12-31","VIC","Inner Regional Australia","Unknown","non_wearing_seatbelts","Mobile camera",256
+2023,"2023-12-01","2023-12-31","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Mobile camera",175
+2023,"2023-12-01","2023-12-31","VIC","Major Cities of Australia","17-25","non_wearing_seatbelts","Police issued",75
+2023,"2023-12-01","2023-12-31","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Mobile camera",790
+2023,"2023-12-01","2023-12-31","VIC","Major Cities of Australia","26-39","non_wearing_seatbelts","Police issued",159
+2023,"2023-12-01","2023-12-31","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Mobile camera",1094
+2023,"2023-12-01","2023-12-31","VIC","Major Cities of Australia","40-64","non_wearing_seatbelts","Police issued",138
+2023,"2023-12-01","2023-12-31","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Mobile camera",328
+2023,"2023-12-01","2023-12-31","VIC","Major Cities of Australia","65 and over","non_wearing_seatbelts","Police issued",21
+2023,"2023-12-01","2023-12-31","VIC","Major Cities of Australia","Unknown","non_wearing_seatbelts","Mobile camera",572
+2023,"2023-12-01","2023-12-31","VIC","Major Cities of Australia","Unknown","non_wearing_seatbelts","Police issued",1
+2023,"2023-12-01","2023-12-31","VIC","Outer Regional Australia","17-25","non_wearing_seatbelts","Police issued",8
+2023,"2023-12-01","2023-12-31","VIC","Outer Regional Australia","26-39","non_wearing_seatbelts","Police issued",11
+2023,"2023-12-01","2023-12-31","VIC","Outer Regional Australia","40-64","non_wearing_seatbelts","Police issued",8
+2023,"2023-12-01","2023-12-31","VIC","Outer Regional Australia","65 and over","non_wearing_seatbelts","Police issued",8
+2023,"2023-12-01","2023-12-31","VIC","Unknown","26-39","non_wearing_seatbelts","Police issued",3
+2023,"2023-12-01","2023-12-31","WA","Unknown","17-25","non_wearing_seatbelts","Police issued",20
+2023,"2023-12-01","2023-12-31","WA","Unknown","26-39","non_wearing_seatbelts","Police issued",48
+2023,"2023-12-01","2023-12-31","WA","Unknown","40-64","non_wearing_seatbelts","Police issued",24
+2023,"2023-12-01","2023-12-31","WA","Unknown","65 and over","non_wearing_seatbelts","Police issued",4

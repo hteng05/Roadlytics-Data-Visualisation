@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Madimi+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Angkor&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
+    <link rel="stylesheet" href="css/car-crash.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/base.css">
+    <title>Car Crash Data Dashboard - Roadlytics</title>
+</head>
+<body class="body">
+    <script src="js/header.js"></script>
+    
+    <!-- Hero Section -->
+    <div class="crash-hero">
+        <div class="crash-hero-overlay"></div>
+        <div class="crash-hero-content">
+            <h1>CRASH OUTCOMES & ROAD SAFETY</h1>
+            <p class="hero-tagline">Understanding the impact of violations on road safety in South Australia</p>
+        </div>
+    </div>
+    
+    <main class="crash-container">
+        <!-- Intro Section -->
+        <div class="intro-section">
+            <div class="crash-safety-intro">
+                <i class="fas fa-car-crash safety-icon"></i>
+                <p>Road crashes involving drug impairment and seatbelt violations represent critical safety challenges. This dashboard analyzes crash outcomes related to these violations in South Australia, helping identify patterns and inform targeted safety interventions to reduce fatalities and serious injuries on our roads.</p>
+            </div>
+        </div>
+
+        <!-- Filters Section -->
+        <div class="filters-container">
+            <h2 class="filters-title">Data Filters & Controls</h2>
+            
+            <div class="filters">
+                <div class="filter-group">
+                    <label for="crash-year-filter">
+                        <i class="fas fa-calendar-alt"></i> Year:
+                    </label>
+                    <select id="crash-year-filter"></select>
+                </div>
+                
+                <div class="filter-group">
+                    <label for="crash-age-filter">
+                        <i class="fas fa-users"></i> Age Group:
+                    </label>
+                    <select id="crash-age-filter"></select>
+                </div>
+                
+                <div class="filter-group">
+                    <label for="crash-region-filter">
+                        <i class="fas fa-map-marker-alt"></i> Region (SA LGA):
+                    </label>
+                    <select id="crash-region-filter"></select>
+                </div>
+                
+                <!-- Special Violation Toggle -->
+                <div class="violation-toggle-container">
+                    <div class="violation-toggle-wrapper">
+                        <div class="violation-toggle">
+                            <div class="violation-slider" id="violation-slider"></div>
+                            <button class="violation-option active" data-value="drug" id="drug-option">
+                                <i class="fas fa-pills"></i>
+                                Drug Violations
+                            </button>
+                            <button class="violation-option" data-value="seatbelt" id="seatbelt-option">
+                                <i class="fas fa-shield-alt"></i>
+                                Seatbelt Violations
+                            </button>
+                        </div>
+                    </div>
+                    <button id="reset-crash-filters" class="reset-filters-btn" title="Reset all filters">
+                        <i class="fas fa-undo"></i>
+                        Reset Filters
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Charts Container -->
+        <div class="charts-container">
+            <div class="chart-section fade-in">
+                <h3 class="chart-title">
+                    <i class="fas fa-chart-line"></i>
+                    Enforcement vs Crash Trends
+                </h3>
+                <div class="chart-intro" style="margin: 0 0 18px 0;">
+                    <p class="choropleth-intro">This chart shows the trends in enforcement actions (no seatbelts or positive drug tests) and crash outcomes related to them specifically in South Australia from 2018 to 2023. The blue bars show the number of enforcement actions, while the light blue line shows the number of crashes that related to the enforcement actions.</p>
+                    <p id="missing-data">Missing data: the age group filter is not available for the drug related data.</p>
+                    <p id="intro-text">Hover over a year to see the crash severity breakdown for that year in the pie chart below or click on a year to see the crash severity breakdown for that year in the pie chart below. Click on the background to reset the filters.</p>
+                </div>
+                <div id="combo-chart" class="responsive-svg-container"></div>
+            </div>
+
+            <div class="chart-section fade-in">
+                <h3 class="chart-title">
+                    <i class="fas fa-chart-pie"></i>
+                    Crash Severity Breakdown
+                </h3>
+                <div class="chart-intro" style="margin: 0 0 18px 0;">
+                    <p class="choropleth-intro">This chart displays the proportion of crash severities for the selected year and filters. Use the filters above or click a year in the chart above to explore changes in crash outcomes.</p>
+                    <p id="missing-data">Missing data: the age group filter is not available for the drug related data.</p>
+                    <p id="intro-text">Hover over a year to see the crash severity breakdown for that year.</p>
+                </div>
+                <p class="chart-description">
+                    
+                </p>
+                <div id="donut-chart" class="responsive-svg-container"></div>
+            </div>
+        </div>
+        <div class="view-data-btn-container">
+            <a href="viewdata.html" class="view-data-btn">View data</a>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>© 2025 Roadlytics - Driving Change Through Data</p>
+    </footer>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script>
+        // Initialize AOS
+        AOS.init({
+            duration: 800,
+            once: true
+        });
+
+        // Enhanced Violation Toggle Functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            const drugOption = document.getElementById('drug-option');
+            const seatbeltOption = document.getElementById('seatbelt-option');
+            const slider = document.getElementById('violation-slider');
+            
+            // Handle toggle clicks
+            function handleToggle(selectedOption, otherOption, sliderClass) {
+                selectedOption.classList.add('active');
+                otherOption.classList.remove('active');
+                
+                if (sliderClass) {
+                    slider.classList.add(sliderClass);
+                } else {
+                    slider.classList.remove('seatbelt');
+                }
+                
+                // Add a subtle animation feedback
+                selectedOption.style.transform = 'scale(0.95)';
+                setTimeout(() => {
+                    selectedOption.style.transform = 'scale(1)';
+                }, 150);
+                
+                // Trigger your existing change event for the original select
+                const violationToggle = document.getElementById('violation-toggle');
+                if (violationToggle) {
+                    violationToggle.value = selectedOption.dataset.value;
+                    violationToggle.dispatchEvent(new Event('change'));
+                }
+                
+                console.log('Violation type changed to:', selectedOption.dataset.value);
+            }
+            
+            drugOption.addEventListener('click', () => {
+                handleToggle(drugOption, seatbeltOption);
+            });
+            
+            seatbeltOption.addEventListener('click', () => {
+                handleToggle(seatbeltOption, drugOption, 'seatbelt');
+            });
+            
+            // Create hidden select for compatibility with existing JS
+            const hiddenSelect = document.createElement('select');
+            hiddenSelect.id = 'violation-toggle';
+            hiddenSelect.style.display = 'none';
+            hiddenSelect.innerHTML = `
+                <option value="drug">Drug</option>
+                <option value="seatbelt">Seatbelt</option>
+            `;
+            document.body.appendChild(hiddenSelect);
+        });
+    </script>
+    
+    <script src="js/load-data.js"></script>
+    <script src="js/shared-constants.js"></script>
+    <script src="js/interactions.js"></script>
+    <script>
+        if (typeof window.renderHeader === 'function') {
+            window.renderHeader();
+        }
+    </script>
+    <script src="js/crash/combo-chart.js"></script>
+    <script src="js/crash/donut-chart.js"></script>
+    <script src="js/crash/violation-toggle.js"></script>
+</body>
+</html>
