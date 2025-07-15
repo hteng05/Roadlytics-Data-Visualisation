@@ -1,26 +1,60 @@
 # Roadlytics – Road Safety Enforcement Data Visualisation
 
-**Website:** [https://hteng05.github.io/Roadlytics-Data-Visualisation/](https://hteng05.github.io/Roadlytics-Data-Visualisation/)
+**Live Demo:** [https://hteng05.github.io/Roadlytics-Data-Visualisation/](https://hteng05.github.io/Roadlytics-Data-Visualisation/)
 
-**Roadlytics** is an interactive data visualisation platform that presents key insights into roadside drug testing, seatbelt enforcement, and crash outcomes across Australia from 2008 to 2023. The dashboard enables users to explore spatial, temporal, and demographic trends through official enforcement datasets published by the Bureau of Infrastructure and Transport Research Economics (BITRE) and South Australian crash statistics.
+Roadlytics is an interactive web dashboard that visualises Australian road safety enforcement data from 2008 to 2023. The project focuses on three key areas: roadside drug testing, seatbelt enforcement, and related crash outcomes. Through the use of interactive charts and filters, users can explore spatial and temporal trends, compare jurisdictions, and gain insights into the effectiveness of road safety policies.
 
-This project was developed for the **2025 Semester 1 Data Visualisation** course, with a focus on best practices in data storytelling, chart design, accessibility, and interactive web development.
+This project was developed as part of the 2025 Semester 1 Data Visualisation unit at Swinburne University, with an emphasis on visual storytelling, user experience, accessibility, and ethical data use.
 
-### Data Sources
+## Features
 
-- **BITRE Road Safety Enforcement Dataset**  
+- Interactive choropleth map showing drug test distribution across jurisdictions
+- Bar and line charts visualising fines and positive test outcomes over time
+- Pie charts and stacked bar charts for demographic and detection method breakdowns
+- Filter controls for year, age group, jurisdiction, and location type
+- Responsive and accessible interface for desktop and mobile use
+- Integrated storytelling elements and structured layout for guided exploration
+
+## Data Sources
+
+- **BITRE Road Safety Enforcement Data (2008–2023)**  
   [https://www.bitre.gov.au/publications/2024/road-safety-enforcement-data](https://www.bitre.gov.au/publications/2024/road-safety-enforcement-data)  
-  Used for drug testing and seatbelt fines data (2008–2023)
+  Used for roadside drug test counts, positive results, and seatbelt enforcement fines.
 
-- **South Australia Crash Data**  
+- **South Australia Road Crash Statistics**  
   [https://data.sa.gov.au/data/dataset/road-crash-data](https://data.sa.gov.au/data/dataset/road-crash-data)  
-  Used for crash outcomes involving drugs or seatbelt violations
+  Used to illustrate crash outcomes involving drug use or lack of seatbelt use.
 
-### Project Contributors
+## Technologies Used
 
-This project was developed as part of a university group assignment by:
+- HTML, CSS, JavaScript
+- D3.js for data visualisation
+- GitHub Pages for deployment
 
-**Duong Ha Tien Le**  
-**Uyen Giang Thai**
+## Running Locally
 
-All team members contributed collaboratively to data processing, analysis, and frontend development.
+To run the project locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/hteng05/Roadlytics-Data-Visualisation.git
+   cd Roadlytics-Data-Visualisation
+   ```
+
+2. Open `index.html` in your web browser.
+
+No server setup is required.
+
+## Contributors
+
+This project was collaboratively developed by:
+
+- Duong Ha Tien Le  
+- Uyen Giang Thai
+
+All members contributed equally to data wrangling, design, development, and testing.
+
+## License
+
+This repository is intended for academic and non-commercial use only. All data sources are publicly available from the Australian Government via BITRE and data.sa.gov.au.
