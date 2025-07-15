@@ -50,8 +50,8 @@ No server setup is required.
 
 This project was collaboratively developed by:
 
-- Duong Ha Tien Le  
-- Uyen Giang Thai
+- Duong Ha Tien Le (@hteng05)  
+- Uyen Giang Thai (@gangisgiang)
 
 All members contributed equally to data wrangling, design, development, and testing.
 
